@@ -79,7 +79,7 @@ from datetime import datetime, date, time
 data_hora = datetime(2010, 8, 20, 9, 11, 30)
 
 print(data_hora.date())
-print(data_hora.time())
+print(data_hora.time())c
 print(data_hora.day)
 print(data_hora.month)
 print()
